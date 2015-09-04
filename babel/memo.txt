@@ -1,0 +1,8 @@
+2015/09/02
+
+$ npm install -g bable
+
+$ bable es6/arrow.js > es5 arrow.js
+
+$ npm install babel-core
+
